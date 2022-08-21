@@ -17,6 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=monteirohat&style=flat-square&color=blue" alt=""/>
 </div>
 
+<hr>
+
+### André Monteiro (Senior Software Engineer - Fullstack)
 
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
