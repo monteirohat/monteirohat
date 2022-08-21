@@ -1,7 +1,17 @@
 <div id="header" align="center">
   <img src="https://github.com/monteirohat/monteirohat/blob/c178c9d4814ad1ddea4bbc4795ae842ca2b400f4/images/office.gif" width="200"/>
 </div>
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-monteiro-4b456510b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/monteirohat">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
