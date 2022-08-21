@@ -21,6 +21,15 @@
 
 ### :nerd_face:	 André Monteiro (Senior Software Engineer - Fullstack)
 
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+          
+          
+
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
