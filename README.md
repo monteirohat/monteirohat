@@ -2,14 +2,14 @@
   <img src="https://github.com/monteirohat/monteirohat/blob/c178c9d4814ad1ddea4bbc4795ae842ca2b400f4/images/office.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-monteiro-4b456510b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-monteiro-4b456510b/" target="_blank">
+    <img src="https://github.com/monteirohat/monteirohat/blob/f7851d880b06e502223883e623223fb8b5b6d071/images/LinkedIn-blue.svg" alt="LinkedIn André Monteiro"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/monteirohat">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/monteirohat" target="_blank">
+    <img src="https://github.com/monteirohat/monteirohat/blob/f7851d880b06e502223883e623223fb8b5b6d071/images/Twitter-blue.svg" alt="Twitter André Monteiro"/>
   </a>
 </div>
 
