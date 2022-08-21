@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/monteirohat/monteirohat/blob/c178c9d4814ad1ddea4bbc4795ae842ca2b400f4/images/office.gif" width="200"/>
+</div>
+
 
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
