@@ -18,8 +18,9 @@
 </div>
 
 <hr>
+<br>
 
-### :nerd_face:	 André Monteiro (Senior Software Engineer - Fullstack)
+## :nerd_face:	 André Monteiro (Senior Software Engineer - Fullstack)
 
 
 
