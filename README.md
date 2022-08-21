@@ -19,7 +19,7 @@
 
 <hr>
 
-### André Monteiro (Senior Software Engineer - Fullstack)
+### :nerd_face:	 André Monteiro (Senior Software Engineer - Fullstack)
 
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
