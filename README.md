@@ -93,7 +93,9 @@
 <br> 
 
 ## :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monteirohat&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteirohat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img width="20" height="20"  src="https://github.com/monteirohat/monteirohat/blob/dd1e48b1e747d8427c2c223f21b5be03540089d3/images/spotify.png" /> Spotify 
 
