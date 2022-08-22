@@ -82,10 +82,9 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />&nbsp;
 </div>
             
+<br> 
           
-          
-          
-### Spotify 
+## <img width="20" height="20"  src="https://github.com/monteirohat/monteirohat/blob/dd1e48b1e747d8427c2c223f21b5be03540089d3/images/spotify.png" /> Spotify 
 
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
