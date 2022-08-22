@@ -98,9 +98,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteirohat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img width="20" height="20"  src="https://github.com/monteirohat/monteirohat/blob/dd1e48b1e747d8427c2c223f21b5be03540089d3/images/spotify.png" /> Spotify 
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andre.d2wl&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=andre.d2wl&redirect=true)
 
+</div>
+  
 <!--
 **monteirohat/monteirohat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
