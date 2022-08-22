@@ -24,7 +24,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 #### Languages and frameworks:
 <div>
@@ -91,7 +91,10 @@
 </div>
             
 <br> 
-          
+
+## :fire: My Stats
+
+
 ## <img width="20" height="20"  src="https://github.com/monteirohat/monteirohat/blob/dd1e48b1e747d8427c2c223f21b5be03540089d3/images/spotify.png" /> Spotify 
 
 <!--
