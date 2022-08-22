@@ -86,6 +86,7 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />&nbsp;        
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />&nbsp;
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />&nbsp;
+  <img  height="40" src="https://github.com/monteirohat/monteirohat/blob/81ccd198f74ca4c716cbd017d7d7a90cfc2f9b57/images/Asterisk_Logo.png" />&nbsp;
           
 </div>
             
