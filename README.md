@@ -32,10 +32,6 @@ These days a big part of my workflow is **AI-assisted development**: I use AI to
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monteirohat&theme=github-compact&hide_border=true&bg_color=00000000" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monteirohat/monteirohat/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monteirohat/monteirohat/output/github-snake.svg"/>
