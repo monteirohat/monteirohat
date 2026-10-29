@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-monteiro-4b456510b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  
-  <a href="https://twitter.com/monteirohat"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </p>
 
 ---
